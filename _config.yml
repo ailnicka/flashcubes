@@ -56,10 +56,10 @@ features                                  :
    
   - title                                 : Easy to create
     description                           : Create a set right in the app or in your favourite spreadsheet program (eg. Excel, Numbers) and open in FlashCubes. 
-    fontawesome_icon_name                 : file-spreadsheet
+    fontawesome_icon_name                 : table
     
   - title                                 : Made for sharing
-    description                           : Share you sets as you fancy, via AirDrop, E-Mail, Messages, Dropbox, GitHub and more. 
+    description                           : Share your sets as you fancy, via AirDrop, E-Mail, Messages, Dropbox, GitHub and more. 
     fontawesome_icon_name                 : share-square
     
     

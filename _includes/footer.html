@@ -1,7 +1,16 @@
 <footer>
-	<p class="footerText">Made by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</p>
+	<p class="footerText">Proudly made by {% if site.your_link %}<a href="{{ site.your_link }}">{% endif %}{{ site.your_name }}{% if site.your_link %}</a>{% endif %}{% if site.your_city %} in {{ site.your_city }}{% endif %}</p>
 	<div class="footerIcons">
 
+		{% if site.linkedin_username %}
+			<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-linkedin-in fa-stack-1x"></i>
+				</span>
+			</a>
+		{% endif %}
+		
 		{% if site.facebook_username %}
 			<a href="https://facebook.com/{{ site.facebook_username }}">
 				<span class="fa-stack fa-1x">

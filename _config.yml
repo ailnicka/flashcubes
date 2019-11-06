@@ -35,8 +35,33 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Flashcards with more sides
-    description                           : Meet FlashCubes, just like flahcards but with as many sides as you need. Ideal for learning foreign languages. 
-    fontawesome_icon_name                 : cube
+    description                           : Meet FlashCubes, just like flahcards but with as many sides as you need. 
+    fontawesome_icon_name                 : dice-d6
+    
+  - title                                 : Ideal for learning languages
+    description                           : With more freedom, you can add an example to every expression you learn. 
+    fontawesome_icon_name                 : language
+    
+  - title                                 : Track your progress
+    description                           : Mark your cubes as learned or active with a simple swipe.
+    fontawesome_icon_name                 : cubes
+ 
+  - title                                 : It speaks!
+    description                           : Not sure about pronunciation? Let the app pronunce it for you. 
+    fontawesome_icon_name                 : comment
+    
+  - title                                 : Test your skills
+    description                           : Challange yourself with a test and check how much have you learned. 
+    fontawesome_icon_name                 : tasks
+   
+  - title                                 : Easy to create
+    description                           : Create a set right in the app or in your favourite spreadsheet program (eg. Excel, Numbers) and open in FlashCubes. 
+    fontawesome_icon_name                 : file-spreadsheet
+    
+  - title                                 : Made for sharing
+    description                           : Share you sets as you fancy, via AirDrop, E-Mail, Messages, Dropbox, GitHub and more. 
+    fontawesome_icon_name                 : share-square
+    
     
   - title                                 : # New Feature Title
     description                           : # New Feature Description

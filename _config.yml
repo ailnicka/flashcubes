@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Flashcards with more sides
-    description                           : Meet FlashCubes, just like flahcards but with as many sides as you need. 
+    description                           : Meet FlashCubes, just like flashcards but with as many sides as you need. 
     fontawesome_icon_name                 : dice-d6
     
   - title                                 : Ideal for learning languages
@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : cubes
  
   - title                                 : It speaks!
-    description                           : Not sure about pronunciation? Let the app pronunce it for you. 
+    description                           : Not sure about pronunciation? Let the app pronounce it for you. 
     fontawesome_icon_name                 : comment
     
   - title                                 : Test your skills

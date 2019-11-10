@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : cubes
  
   - title                                 : It speaks!
-    description                           : Not sure about pronunciation? Let the app pronounce it for you. 
+    description                           : Not sure about pronunciation? Let the app detect language and pronounce it for you. 
     fontawesome_icon_name                 : comment
     
   - title                                 : Test your skills
@@ -63,6 +63,9 @@ features                                  :
     description                           : Share your sets as you fancy, via AirDrop, E-Mail, Messages, Dropbox, GitHub and more. 
     fontawesome_icon_name                 : share-square
     
+  - title                                 : Dark mode
+    description                           : Light or dark, the app will follow your style.
+    fontawesome_icon_name                 : adjust
     
   - title                                 : # New Feature Title
     description                           : # New Feature Description

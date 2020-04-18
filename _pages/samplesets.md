@@ -30,7 +30,7 @@ There are many ways to do it:
 
 ## Importing a CSV file to FlashCubes
 
-Be it in Email, Messages, Safari, or Files, wherever you can view and share ![share icon](/assets/help/share_icon.png) your CSV file you can choose to copy it to FlashCubes. If you don't see the FlashCubes app icon, it can be hiding in the longer list under `More`.  
+Be it in Email, Messages, Safari, or Files, wherever you can view and share ![share icon](../assets/help/share_icon.png) your CSV file you can choose to copy it to FlashCubes. If you don't see the FlashCubes app icon, it can be hiding in the longer list under `More`.  
 ![Sharing CSV](../assets/help/open_from_share_sheet.png "Look for FlashCubes withing the apps, or under 'More'")  
 ![Copy to FlashCubes](../assets/help/copy_to_flashcubes.png "Look for this icon!")
 

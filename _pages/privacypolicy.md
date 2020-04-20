@@ -8,7 +8,7 @@ November 6 2019
 
 # Privacy Policy
 
-This policy applies to all information collected or submitted on PsychoCam website and apps for iOS and any other devices and platforms.
+This policy applies to all information collected or submitted on FlashCubes website and apps for iOS and any other devices and platforms.
 
 ## Information we collect
 
